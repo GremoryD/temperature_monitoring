@@ -1,0 +1,11 @@
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\bin\Debug\Dyplom.exe.config
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\bin\Debug\Dyplom.exe
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\bin\Debug\Dyplom.pdb
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.exe
+c:\users\dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.pdb
+C:\Users\Dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\bin\Debug\hcwgenericclasses.dll
+C:\Users\Dima\documents\visual studio 2017\Projects\Dyplom\Dyplom\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Dyplom\Dyplom\obj\Debug\Dyplom.Form1.resources
